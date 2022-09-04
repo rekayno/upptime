@@ -22,19 +22,19 @@
     "url": "https://lavalink-replit.rekayno.repl.co/metrics",
     "icon": "https://favicons.githubusercontent.com/lavalink-replit.rekayno.repl.co",
     "slug": "lavalink-replit",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 518,
-    "timeDay": 518,
-    "timeWeek": 518,
-    "timeMonth": 518,
-    "timeYear": 518,
+    "status": "up",
+    "uptime": "98.88%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "98.88%",
+    "time": 448,
+    "timeDay": 448,
+    "timeWeek": 448,
+    "timeMonth": 448,
+    "timeYear": 448,
     "dailyMinutesDown": {
-      "2022-09-04": 0
+      "2022-09-04": 12
     }
   },
   {
