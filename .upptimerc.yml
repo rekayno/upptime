@@ -7,8 +7,6 @@ sites:
     url: https://rekayno.ml
   - name: Lavalink-replit
     url: https://lavalink-replit.rekayno.repl.co/metrics
-  - name: MusicBot-replit
-    url: https://discord-musicbot.rekayno.repl.co/
   - name: MusicBot-koyeb
     url: https://noteblock-rekayno.koyeb.app/
 
