@@ -1,7 +1,7 @@
 url: https://lavalink-replit.rekayno.repl.co/metrics
-status: up
-code: 200
-responseTime: 477
-lastUpdated: 2022-10-30T23:25:09.232Z
+status: down
+code: 429
+responseTime: 9957
+lastUpdated: 2022-10-31T22:25:57.488Z
 startTime: Sat Sep 03 2022 20:43:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
